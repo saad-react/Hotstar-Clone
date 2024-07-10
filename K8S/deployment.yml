@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: sevenajay/hotstar:latest
+        image: 797272/hotstar1:latest
         ports:
         - containerPort: 3000  # Port your application listens on
